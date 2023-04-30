@@ -1,4 +1,4 @@
-/** @Jagat subedi
+/** @Kritim Bastola
  *
  * In this program, the author will create a circle, rectangle and fancy shape.
  *
